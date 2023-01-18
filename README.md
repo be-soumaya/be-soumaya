@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **be-soumaya/be-soumaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,8 +28,7 @@ Here are some ideas to get you started:
 - A Big Data Master's Student
 - Passionate about working with data and apply the data-driven approach to solve problems. 
 - Google certified Data Analyst.
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+
 
 <br><br>
 
@@ -49,7 +46,6 @@ Here are some ideas to get you started:
     ![JAVA](https://img.shields.io/badge/Java%20-%2300599C.svg?style=for-the-badge&logo=java%2B%2B&logoColor=white)
   
 
-<br>   
     
 - **Web Development**:
 
@@ -60,7 +56,6 @@ Here are some ideas to get you started:
       ![PHP](https://img.shields.io/badge/PHP%20-%232370ED.svg?style=for-the-badge&logo=php&logoColor=white)
 
 
-<br>
 
 - **Business Intelligence**:
    
@@ -71,22 +66,21 @@ Here are some ideas to get you started:
 
 
     
-<br>
 
-- **Softwares and Tools**:
+- **Databases**:
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23F05033.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+    ![SQL SERVER](https://img.shields.io/badge/SQL%20SERVER-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Oracle](https://img.shields.io/badge/Oracle-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+    ![MongoDB](https://img.shields.io/badge/MongoDB-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br>
 
-- **Extras**:
+- **Machine Learning & Deep learning**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+    ![Regression](https://img.shields.io/badge/Regression-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![Decision Tree](https://img.shields.io/badge/Decision%20Tree-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+    ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![NLP](https://img.shields.io/badge/NLP-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 </p>
@@ -113,7 +107,6 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-<br>
 
 -----
 
@@ -133,7 +126,6 @@ Here are some ideas to get you started:
 </li>
 
 
-<br>
 
 <li>
 <a href="mailto:belhadjisoumaya@gmail.com" target="_blank">
