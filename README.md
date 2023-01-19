@@ -53,17 +53,17 @@ Here are some ideas to get you started:
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![Django](https://img.shields.io/badge/Django%20-%2300599C.svg?style=for-the-badge&logo=Django%2B%2B&logoColor=white)
-      ![PHP](https://img.shields.io/badge/PHP%20-%232370ED.svg?style=for-the-badge&logo=php&logoColor=white)
+    ![Django](https://img.shields.io/badge/Django%20-%23054020.svg?style=for-the-badge&logo=django%2B%2B&logoColor=white)
+      ![PHP](https://img.shields.io/badge/PHP%20-%238892BF.svg?style=for-the-badge&logo=php&logoColor=white)
 
 
 
 - **Business Intelligence**:
    
-  ![Power BI](https://img.shields.io/badge/Power%20BI%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![Tableau](https://img.shields.io/badge/Tableau-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-      ![MSBI ](https://img.shields.io/badge/MSBI%20-%2300599C.svg?style=for-the-badge&logo=Django%2B%2B&logoColor=white)
-     ![Talend](https://img.shields.io/badge/Talend%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/Power%20BI%20-%23F7DF1E.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+    ![Tableau](https://img.shields.io/badge/Tableau-%23327FC7.svg?style=for-the-badge&logo=tableau&logoColor=white)
+      ![MSBI ](https://img.shields.io/badge/MSBI%20-%2300599C.svg?style=for-the-badge&logo=msbi%2B%2B&logoColor=white)
+     ![Talend](https://img.shields.io/badge/Talend%20-%23fe6d71.svg?style=for-the-badge&logo=talend&logoColor=white)
 
 
     
@@ -71,9 +71,9 @@ Here are some ideas to get you started:
 - **Databases**:
 
     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23F05033.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-    ![SQL SERVER](https://img.shields.io/badge/SQL%20SERVER-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Oracle](https://img.shields.io/badge/Oracle-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![MongoDB](https://img.shields.io/badge/MongoDB-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![SQL SERVER](https://img.shields.io/badge/SQL%20SERVER-%23121011.svg?style=for-the-badge&logo=sqlserver&logoColor=white)
+    ![Oracle](https://img.shields.io/badge/Oracle-%234285F4.svg?style=for-the-badge&logo=oracle&logoColor=white)
+    ![MongoDB](https://img.shields.io/badge/MongoDB-0078d7.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 - **Machine Learning & Deep learning**:
