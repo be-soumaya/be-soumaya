@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![SQL](https://img.shields.io/badge/SQL%20-%232370ED.svg?style=for-the-badge&logo=sql&logoColor=white)
-    ![JAVA](https://img.shields.io/badge/Java%20-%2300599C.svg?style=for-the-badge&logo=java%2B%2B&logoColor=white)
+    ![JAVA](https://img.shields.io/badge/Java%20-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white)
   
 
     
@@ -53,16 +53,17 @@ Here are some ideas to get you started:
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![Django](https://img.shields.io/badge/Django%20-%23054020.svg?style=for-the-badge&logo=django%2B%2B&logoColor=white)
+    ![Django](https://img.shields.io/badge/Django%20-%23446454.svg?style=for-the-badge&logo=django&logoColor=white)
+    ![Angular](https://img.shields.io/badge/Angular%20-%23cf0433.svg?style=for-the-badge&logo=angular&logoColor=white)
       ![PHP](https://img.shields.io/badge/PHP%20-%238892BF.svg?style=for-the-badge&logo=php&logoColor=white)
 
 
 
 - **Business Intelligence**:
    
-  ![Power BI](https://img.shields.io/badge/Power%20BI%20-%23F7DF1E.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+  ![Power BI](https://img.shields.io/badge/Power%20BI%20-%23f3c810.svg?style=for-the-badge&logo=powerbi&logoColor=black)
     ![Tableau](https://img.shields.io/badge/Tableau-%23327FC7.svg?style=for-the-badge&logo=tableau&logoColor=white)
-      ![MSBI ](https://img.shields.io/badge/MSBI%20-%2300599C.svg?style=for-the-badge&logo=msbi%2B%2B&logoColor=white)
+      ![MSBI ](https://img.shields.io/badge/MSBI%20-%2300599C.svg?style=for-the-badge&logo=msbi&logoColor=white)
      ![Talend](https://img.shields.io/badge/Talend%20-%23fe6d71.svg?style=for-the-badge&logo=talend&logoColor=white)
 
 
@@ -70,41 +71,32 @@ Here are some ideas to get you started:
 
 - **Databases**:
 
-    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23F05033.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-    ![SQL SERVER](https://img.shields.io/badge/SQL%20SERVER-%23121011.svg?style=for-the-badge&logo=sqlserver&logoColor=white)
-    ![Oracle](https://img.shields.io/badge/Oracle-%234285F4.svg?style=for-the-badge&logo=oracle&logoColor=white)
-    ![MongoDB](https://img.shields.io/badge/MongoDB-0078d7.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23326690.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+    ![SQL SERVER](https://img.shields.io/badge/SQL%20SERVER-%23bb3533.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+    ![Oracle](https://img.shields.io/badge/Oracle-%23bb3533.svg?style=for-the-badge&logo=oracle&logoColor=white)
+    ![MongoDB](https://img.shields.io/badge/MongoDB-%2314934c.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+	
+- **Big Data**:
+
+    ![Spark](https://img.shields.io/badge/Spark-%23c64c1c.svg?style=for-the-badge&logo=apachespark&logoColor=white)
+    ![Hadoop](https://img.shields.io/badge/Hadoop-%2365cbfa.svg?style=for-the-badge&logo=apachehadoop&logoColor=white)
+    ![Kafka](https://img.shields.io/badge/Kafka-%23000000.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+    ![Cloudera](https://img.shields.io/badge/Cloudera-%23e3642b.svg?style=for-the-badge&logo=cloudera&logoColor=white)
 
 
 - **Machine Learning & Deep learning**:
 
-    ![Regression](https://img.shields.io/badge/Regression-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Decision Tree](https://img.shields.io/badge/Decision%20Tree-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-    ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![NLP](https://img.shields.io/badge/NLP-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Supervised](https://img.shields.io/badge/Supervised-%23054020?style=for-the-badge&logo=&logoColor=white)
+    ![Unsupervised](https://img.shields.io/badge/Unsupervised-%23bb3533.svg?style=for-the-badge&logo=&logoColor=white) 
+    ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-%23F05033.svg?style=for-the-badge&logo=&logoColor=white)
+    ![NLP](https://img.shields.io/badge/NLP-0078d7.svg?style=for-the-badge&logo=&logoColor=white)
 
 
 </p>
 
-<br>
-
------
 
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-<a href="https://github.com/be-soumaya/">
-  <img src="https://github-readme-stats.vercel.app/api?username=be-soumaya&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=be-soumaya&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="be-soumaya"/>
-
-</a>
-</div>
-
-<br>
 
 -----
 
