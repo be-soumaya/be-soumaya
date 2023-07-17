@@ -21,12 +21,11 @@ Here are some ideas to get you started:
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 200px></picture>
 
 <br>
 <br>
 
-- A Big Data Master's Student
+- Master's degree in Big Data.
 - Passionate about working with data and apply the data-driven approach to solve problems. 
 - Google certified Data Analyst.
 
@@ -80,9 +79,9 @@ Here are some ideas to get you started:
 - **Big Data**:
 
     ![Spark](https://img.shields.io/badge/Spark-%23c64c1c.svg?style=for-the-badge&logo=apachespark&logoColor=white)
+    ![Airflow](https://img.shields.io/badge/Airflow-0078d7.svg?style=for-the-badge&logo=apacheairflow&logoColor=white)
     ![Hadoop](https://img.shields.io/badge/Hadoop-%2365cbfa.svg?style=for-the-badge&logo=apachehadoop&logoColor=white)
     ![Kafka](https://img.shields.io/badge/Kafka-%23000000.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
-    ![Cloudera](https://img.shields.io/badge/Cloudera-%23e3642b.svg?style=for-the-badge&logo=cloudera&logoColor=white)
 
 
 - **Machine Learning & Deep learning**:
@@ -90,7 +89,6 @@ Here are some ideas to get you started:
     ![Supervised](https://img.shields.io/badge/Supervised-%23054020?style=for-the-badge&logo=&logoColor=white)
     ![Unsupervised](https://img.shields.io/badge/Unsupervised-%23bb3533.svg?style=for-the-badge&logo=&logoColor=white) 
     ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-%23F05033.svg?style=for-the-badge&logo=&logoColor=white)
-    ![NLP](https://img.shields.io/badge/NLP-0078d7.svg?style=for-the-badge&logo=&logoColor=white)
 
 
 </p>
